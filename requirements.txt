@@ -5,3 +5,6 @@ pandas
 numpy
 sentence-transformers
 datasets
+openai
+tqdm
+dotenv
